@@ -5,7 +5,12 @@
 <h3 align="center">🌐 Socials:</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/otavio-augusto-980258367/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>&nbsp;&nbsp;<a href="mailto:otavioaugustoss990@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>&nbsp;&nbsp;<a href="https://wa.me/5538999172173" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/otavioass_" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" /></a>
+
+[![linkedin logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/otavio-augusto-980258367/) &nbsp;
+[![gmail logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:otavioaugustoss990@gmail.com) &nbsp;
+[![whatsapp logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg)](https://wa.me/5538999172173) &nbsp;
+[![instagram logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)](https://www.instagram.com/otavioass_)
+
 </div>
 
 <h3 align="center">💻 Stack:</h3>
